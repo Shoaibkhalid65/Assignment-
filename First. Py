@@ -1,4 +1,7 @@
-class Course:
+'''name=Muhammad Shoaib Khalid
+    class=2nd-1E
+roll #S23BSEEN1E02056'''
+  class Course:
     def __init__(self, code, title, units):
         self.code = code
         self.title = title
